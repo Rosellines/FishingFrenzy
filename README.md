@@ -1,16 +1,3 @@
-# Fishing Frenzy Blessed Bot
-
-<div align="center">
-  <img src="screen.jpg" alt="Fishing Frenzy Bot Preview" width="600">
-
-  <div>
-    <img src="https://img.shields.io/badge/UI-Blessed-blue?style=for-the-badge&logo=xterm" alt="Blessed UI">
-    <img src="https://img.shields.io/badge/WebSocket-Enabled-4A90E2?style=for-the-badge&logo=websocket" alt="WebSocket Enabled">
-    <a href="https://fishingfrenzy.co?code=62H8PM">
-      <img src="https://img.shields.io/badge/Fishing%20Frenzy-Join%20Now-brightgreen?style=for-the-badge&logo=gamepad" alt="Fishing Frenzy Referral">
-    </a>
-  </div>
-</div>
 
 ## 📂 Project Structure
 
@@ -30,7 +17,7 @@ fishing-frenzy-blessed-bot/
 Fishing Frenzy Blessed Bot is an advanced, interactive terminal-based automation tool for the Fishing Frenzy game. Designed to streamline gameplay across multiple accounts with a rich, user-friendly interface.
 
 ### 🎮 Join Fishing Frenzy
-👉 [Use My Referral Link for Extra Bonus!](https://fishingfrenzy.co?code=62H8PM)
+👉 [Use My Referral Link for Extra Bonus!](https://fishingfrenzy.co/?code=SCPRY2)
 
 ## ✨ Key Features
 
@@ -80,8 +67,8 @@ Fishing Frenzy Blessed Bot is an advanced, interactive terminal-based automation
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SCxVBS/FishingFrenzy-Auto-Bot.git
-cd FishingFrenzy-Auto-Bot
+git clone https://github.com/Rosellines/FishingFrenzy.git
+cd FishingFrenzy
 ```
 
 ### 2. Install Dependencies
@@ -120,12 +107,6 @@ node index.js
 - Comply with game's terms of service
 - Potential account suspension risk
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create Pull Request
 
 ## 📞 Support & Community
 - Telegram: [@scxvbs](https://t.me/scxvbs)

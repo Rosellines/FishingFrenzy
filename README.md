@@ -1,7 +1,7 @@
 # Fishing Frenzy Blessed Bot
 
 <div align="center">
-  <img src="scxvbs.jpg" alt="Fishing Frenzy Bot Preview" width="600">
+  <img src="screen.jpg" alt="Fishing Frenzy Bot Preview" width="600">
 
   <div>
     <img src="https://img.shields.io/badge/UI-Blessed-blue?style=for-the-badge&logo=xterm" alt="Blessed UI">

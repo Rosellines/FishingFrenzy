@@ -1,4 +1,7 @@
-<img src="./screen.png" alt="Preview" width="600"/>
+<p align="center">
+  <img src="./screen.jpg" alt="Screenshot" width="600"/>
+</p>
+
 
 ## 📂 Project Structure
 

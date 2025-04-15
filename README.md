@@ -1,3 +1,4 @@
+<img src="./screen.png" alt="Preview" width="600"/>
 
 ## 📂 Project Structure
 
